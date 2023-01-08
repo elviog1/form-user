@@ -1,0 +1,22 @@
+.user-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 20px;
+    background: linear-gradient(180deg, rgb(196, 206, 255) 0%,  rgb(81, 110, 255) 100%);
+}
+.user-button{
+    font-size: 22px;
+    text-transform: uppercase;
+    color: black;
+    border: none;
+    padding: 5px 10px;
+    box-shadow: 4px 4px 4px black;
+    cursor: pointer;
+}
+.user-button:hover{
+    box-shadow: 2px 2px 2px black;
+
+}

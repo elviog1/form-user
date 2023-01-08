@@ -1,0 +1,13 @@
+*{
+    font-family: cursive;
+}
+.welcome-container{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    background: linear-gradient(180deg, rgb(196, 206, 255) 0%,  rgb(81, 110, 255) 100%);
+}
+.form-title{
+    text-align: center;
+}
