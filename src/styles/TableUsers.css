@@ -41,11 +41,6 @@
         font-size: 13px;
     }
 }
-/* @media (max-width:590px){
-    .th-title, .td-user{
-        font-size: 15px;
-    }
-} */
 @media (max-width:540px){
     .th-title, .td-user{
         font-size: 11px;
