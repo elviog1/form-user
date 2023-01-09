@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import '../styles/Form.css'
 export default function Input({label,type,name,req,onChange}) {
     const handleChange = e =>{
